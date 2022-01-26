@@ -112,7 +112,7 @@ body{
 @media  (max-width: 450px)  {
 
     .date{
-        width: 90%
+        width: 90%;
     }
     .btn{
         width: 55%;
