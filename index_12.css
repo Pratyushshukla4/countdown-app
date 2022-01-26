@@ -113,6 +113,7 @@ body{
 
     .date{
         width: 90%;
+         justify-content: space-evenly;
     }
     .btn{
         width: 55%;
